@@ -2,7 +2,7 @@
 
 # 设置各变量
 WSPATH=${WSPATH:-'argo'}
-UUID=${UUID:-'8846d132-2b68-4167-adc2-a691e1a55e17'}
+UUID=${UUID:-'4c931009-2f90-405e-bdaa-a6c17055c03c'}
 
 # 哪吒三个参数，不需要的话可以留空，删除或在这三行最前面加 # 以注释
 NEZHA_SERVER= 
